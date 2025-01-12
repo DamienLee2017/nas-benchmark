@@ -1,4 +1,3 @@
-当然可以。下面是一个简单的`README.md`文件示例，包含了项目的简介和编译方法：
 
 ```markdown
 # NAS Benchmark Tool
